@@ -1,0 +1,7 @@
+,Performance on the test set of T1,Performance on the test set of T1 and T2.,"Performance on the test set of T1, T2 and T3.",Performance on combined G1+G2+G3
+Treatment F1,0.904,0.9,0.905,0.915
+Chronic Disease F1,0.907,0.897,0.902,0.902
+Cancer F1,0.906,0.898,0.899,0.882
+Allergy F1,0.809,0.828,0.803,0.826
+Other F1,0.952,0.946,0.947,0.946
+Weight averaged F1,0.932,0.925,0.927,0.927
