@@ -13,6 +13,15 @@ Reference:
 
 2. Benyou Wang, Qianqian Xie, Jiahuan Pei, Zhihong Chen, Prayag Tiwari, Zhao Li, and Jie Fu. 2023. Pre-trained Language Models in Biomedical Domain: A Systematic Survey. ACM Comput. Surv. 56, 3, Article 55 (March 2024), 52 pages. Pre-trained Language Models in Biomedical Domain: A Systematic Survey.
 
+Why Continual Learning?
+
+Prevents Catastrophic Forgetting: Normally, neural networks forget old information when they learn new data. Continual learning helps maintain this old knowledge, which is crucial when the model needs to perform tasks across varied topics without being re-trained from scratch.
+
+Efficiency and Scalability: This method allows for ongoing model updates without revisiting the entire dataset, which saves time and computational resources.
+
+Adaptability: The model can adjust to new changes or learn new tasks or topics while maintaining its performance on previous tasks or topics.
+
+
 --------------- Detailed Explanation of the Data understanding and Stratified sampling in TASK 1, 2, and 3: -------------------
 
 Data understanding: As a first step, I have gone through data. Here are some important observations:
